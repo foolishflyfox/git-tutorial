@@ -3,3 +3,5 @@
 
     - feature-B
 
+    - feature-C
+
